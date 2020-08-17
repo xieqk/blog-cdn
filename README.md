@@ -1,1 +1,1 @@
-# blog-cnd
+# blog-cdn
